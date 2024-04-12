@@ -1,2 +1,2 @@
 # Recipe-Finder-Application
-A sleek AngularJS-powered platform for effortless recipe management, enabling users to add, update, delete, and browse recipes with ease, while also providing detailed views and search functionality.
+A web application built with AngularJS.  This web application empowers users to seamlessly manage their culinary creations. Whether you're a seasoned chef or a budding cook, our platform provides a user-friendly interface to add, update, delete, and browse through recipes effortlessly.
